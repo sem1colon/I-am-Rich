@@ -6,5 +6,7 @@ You can be famous with this app and this app is for only ***Rich People*** who t
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project created with Flutter.
 
+## App Preview
+![Finished App](https://github.com/sem1colon/Images/blob/master/Screenshot_2020-06-28-07-58-01-302_com.sem1Colon.i_am_rich.jpg)
